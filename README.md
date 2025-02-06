@@ -1,12 +1,10 @@
 # web
 
-Lo primero que hice fue descargar el plugin "clasic editor"
-
-
-
-
-![Classic editor](https://github.com/nathan-ruano/web/blob/defb0852d4c3d2681f13833d584241805ffa5df8/Captura%20de%20pantalla%20de%202025-02-06%2013-52-21.png).
-![Classic editor](https://github.com/nathan-ruano/web/blob/defb0852d4c3d2681f13833d584241805ffa5df8/Captura%20de%20pantalla%20de%202025-02-06%2013-52-21.png).
-![Classic editor](https://github.com/nathan-ruano/web/blob/defb0852d4c3d2681f13833d584241805ffa5df8/Captura%20de%20pantalla%20de%202025-02-06%2013-52-21.png).
-![Classic editor](https://github.com/nathan-ruano/web/blob/defb0852d4c3d2681f13833d584241805ffa5df8/Captura%20de%20pantalla%20de%202025-02-06%2013-52-21.png).
-![Classic editor](https://github.com/nathan-ruano/web/blob/defb0852d4c3d2681f13833d584241805ffa5df8/Captura%20de%20pantalla%20de%202025-02-06%2013-52-21.png).
+Lo primero que hice fue descargar varios plugins para ayudarme tanto en la parte estetica como practica entre ellos:
+- Classic editor
+- Contact Form
+- Elemento
+- OSM
+- Performace form
+- Polylang
+  Luego descarge una plantilla, y empecé a escribir mis post i pagina
